@@ -72,9 +72,6 @@
     "__sphinx_doctest_options":  {"yes":  true, "no":  false},
     "__github_actions_options":  {"yes":  true, "no":  false},
     "__github_actions_osx_options": {"yes":  true, "no":  false},
-    "__github_actions_windows_options":  {"yes":  true, "no":  false},
-    "_extensions": [
-        "pylibrary.JsonQuoteExtension",
-        "jinja2_time.TimeExtension"
-    ]
+    "__github_actions_windows_options":  {"yes":  true, "no":  false}
+    
 }
